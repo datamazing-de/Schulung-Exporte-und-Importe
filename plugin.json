@@ -1,7 +1,7 @@
 {
 
     "name"              : "ElasticSyncBasisSchulung",
-    "version"           : "2.0.4",
+    "version"           : "2.0.5",
     "webhookUrl"        : "https://t5701wqf75ra.plentymarkets-cloud01.com/rest/service/tickets",
     "pluginIcon"        : "icon_plugin_xs.png",
     "description"       : "Schulung zu Import- und Exportmöglichkeiten mit plentymarkets.",
